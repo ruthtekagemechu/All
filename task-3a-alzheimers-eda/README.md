@@ -17,6 +17,4 @@ Exploratory data analysis of `alzheimers_disease_data.csv` (2,149 patients, 35 c
 4. Three research questions: lifestyle factors, medical history, and symptoms vs cognitive test scores
 5. A note on data quality. Several signs point to the dataset being synthetic.
 
-## Running it
 
-Open the notebook in Google Colab and choose Runtime > Run all. The first cell asks you to upload `alzheimers_disease_data.csv`.
